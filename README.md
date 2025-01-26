@@ -1,13 +1,7 @@
-<h1 align="center">
-  Hey there, I'm Lokeshwaran B! 👋
-</h1>
+<h1 align="center">👋 Hi, I'm Lokeshwaran B</h1>
 <h3 align="center">
-  Aspiring Full Stack Developer | Creating Impactful Web Applications
+  Full Stack Developer | Crafting Modern Web Applications with Precision and Passion
 </h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coder GIF">
-</p>
 
 ---
 
@@ -16,38 +10,45 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding Animation">
 </p>
 
 ---
 
 ### 🚀 Projects
 #### 🌱 **[Footprint Forge](https://footprint-forge.netlify.app/)**
-- ✨ **Purpose**: Helps users calculate their carbon footprint based on **transportation**, **energy usage**, and **diet**.
-- 🌍 **Features**: Personalized feedback, comparisons to average usage, and actionable suggestions for sustainability.
+- **Purpose**: Helps users calculate their carbon footprint based on **transportation**, **energy usage**, and **diet**.
+- **Features**: Provides personalized feedback, compares user emissions to average usage, and offers actionable suggestions for sustainability.
+- **Goal**: Promotes sustainable living by raising awareness and encouraging users to reduce their carbon impact.
 
 #### 🖥️ **[Portfolio Website](https://lokeshwaran-fullstackwebdeveloper.netlify.app/)**
-- 🎨 Fully responsive and designed to showcase projects, skills, and experience.
-- 📩 Integrated smooth navigation and a contact form for easy communication.
+- A fully responsive portfolio showcasing projects, skills, and experience.
+- Integrated with smooth navigation, interactive elements, and a contact form.
 
 ---
 
 ### 🎓 Education
 📚 **B.Tech in Information Technology**  
 Arunai Engineering College (2022–2026)  
-**CGPA:** 8.3
+**CGPA**: 8.3
 
-🎓 **Certifications**  
-- 🏅 **Web Development** - Sololearn  
-- 🏅 **Fundamentals of Java Programming** - Coursera (Board Infinity)  
-- 🏅 **Programming with JavaScript** - Coursera (Meta)  
-- 🏅 **Crash Course on Python** - Coursera (Google)  
+📘 **Class XII (HSC)**  
+Saradha Matric Hr Sec School (2021–2022)  
+**Percentage**: 89.5%
+
+📗 **Class X (SSLC)**  
+Saradha Matric Hr Sec School (2019–2020)  
+**Percentage**: 77.8%
+
+---
+
+### 🏆 Certifications
+- **Web Development** (Sololearn)  
+- **Fundamentals of Java Programming** (Coursera – Board Infinity)  
+- **Programming with JavaScript** (Coursera – Meta)  
+- **Crash Course on Python** (Coursera – Google)  
 
 ---
 
@@ -66,12 +67,17 @@ Arunai Engineering College (2022–2026)
 
 ---
 
-### 🌟 Fun Fact About Me
+### 🌱 Currently Learning
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="100" alt="Rocket Animation">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
-💡 I believe in making technology that inspires change and helps the world 🌍. 
 
 ---
 
-⭐️ *"Building software that drives progress, one line of code at a time."*  
+### 🌟 Fun Fact About Me
+💡 I am passionate about solving real-world problems through technology, striving to build applications that make a difference!  
+
+---
+
+⭐️ *"Building a better future through innovation, one line of code at a time."*  
