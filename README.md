@@ -65,16 +65,6 @@ Saradha Matric Hr Sec School (2019–2020)
   </a>
 </p>
 
----
-
-### 🌱 Currently Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
----
-
 ### 🌟 Fun Fact About Me
 💡 I am passionate about solving real-world problems through technology, striving to build applications that make a difference!  
 
