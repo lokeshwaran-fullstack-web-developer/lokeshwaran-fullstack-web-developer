@@ -1,66 +1,67 @@
-<h1 align="center">Hi 👋, I'm Lokesh</h1>
-<h3 align="center">Aspiring Full Stack Developer | Passionate about building impactful web applications</h3>
+<h1 align="center">Hi 👋, I'm Lokeshwaran B</h1>
+<h3 align="center">Aspiring Full Stack Developer | Building impactful web applications</h3>
 
 ---
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
 ### 🚀 Projects
-#### 🌱 **[Footprint Forge](#)**
-- A web app that calculates and helps reduce carbon footprints by analyzing **transportation**, **energy usage**, and **diet**.
-- Includes personalized feedback, comparisons to average usage, and actionable suggestions for sustainable living.
+#### 🌱 **[Footprint Forge](https://footprint-forge.netlify.app/)**
+- A web app that calculates and helps reduce carbon footprints based on **transportation**, **energy usage**, and **diet**.
+- Features personalized feedback, comparisons to average usage, and actionable suggestions for sustainability.
 
-#### 📝 **Todo List**
-- A productivity app to manage daily tasks efficiently.
-
-#### 🍔 **Burger House**
-- A fully responsive website showcasing a restaurant's menu and services.
-
-#### 🌏 **Travel Website**
-- A visually appealing website to explore travel destinations and plan trips.
-
-#### 🛡 **Violence Detection and Notification System**
-- A deep learning-based system for real-time violence detection and notifications.
+#### 🖥️ **[Portfolio Website](https://lokeshwaran-fullstackwebdeveloper.netlify.app/)**
+- Fully responsive website to showcase projects, skills, and experience.
+- Integrated smooth navigation, interactive elements, and a contact form.
 
 ---
 
 ### 🎓 Education
 - **B.Tech in Information Technology**  
-  Arunai Engineering College (CGPA: 8.3)
+  Arunai Engineering College (2022–2026)  
+  **CGPA:** 8.3
+
+- **Class XII (HSC)**  
+  Saradha Matric Hr Sec School (2021–2022)  
+  **Percentage:** 89.5%
+
+- **Class X (SSLC)**  
+  Saradha Matric Hr Sec School (2019–2020)  
+  **Percentage:** 77.8%
 
 ---
 
-### 🌱 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+### 🌱 Certifications
+- **Web Development** - Sololearn  
+- **Fundamentals of Java Programming** - Coursera (Board Infinity)  
+- **Programming with JavaScript** - Coursera (Meta)  
+- **Crash Course on Python** - Coursera (Google)  
 
 ---
 
 ### 📫 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/lokesh-profile" target="_blank">
+  <a href="https://linkedin.com/in/lokeshwaran-fullstackdeveloper" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://lokesh-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:lokesh@example.com">
+  <a href="mailto:lokeshwaran08may2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/lokeshwaran-fullstack-web-developer" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-⭐️ *"Building the future, one impactful application at a time."*  
+⭐️ *"Passionate about building impactful software solutions that drive positive change."*  
